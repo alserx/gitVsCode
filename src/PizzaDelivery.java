@@ -16,4 +16,8 @@ public class PizzaDelivery {
 
 	}
 
+	void hello() {
+		System.out.println("Hello World");
+	}
+
 }
